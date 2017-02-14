@@ -1,0 +1,16 @@
+.DS_Store
+.metadata/*
+RemoteSystemsTempFiles/*
+target/
+**/target/
+
+.classpath
+.settings/
+.project
+.idea
+*.iml
+travel_web/WebContent/
+idea_travel/
+idea/
+out/
+catalina.base_IS_UNDEFINED/

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Hotel Id="90620863"> 
+  <Detail> 
+    <BaiduLat>43.867984000</BaiduLat>  
+    <BaiduLon>125.284928000</BaiduLon>  
+    <BrandId>0</BrandId>  
+    <BusinessZone>090109</BusinessZone>  
+    <CreditCards/>  
+    <CityId>0901</CityId>  
+    <CityId2/>  
+    <Country>1</Country>  
+    <District>0001</District>  
+    <FacilitiesV2> 
+      <GeneralAmenities>224,196,203</GeneralAmenities> 
+    </FacilitiesV2>  
+    <GeneralAmenities>24小时热水</GeneralAmenities>  
+    <GoogleLat>43.861544000</GoogleLat>  
+    <GoogleLon>125.278458000</GoogleLon>  
+    <GroupId>0</GroupId>  
+    <HasCoupon>false</HasCoupon>  
+    <Address>大屯街与集安路交汇西行30米</Address>  
+    <Category>1</Category>  
+    <Fax/>  
+    <Name>长春爱家时尚客房</Name>  
+    <EstablishmentDate>1900-01</EstablishmentDate>  
+    <Phone>13756045222</Phone>  
+    <RenovationDate>1900-01</RenovationDate>  
+    <StarRate>0</StarRate>  
+    <IntroEditor>爱家时尚客房（长春大屯街店），交通便利，风景优美。拥有多种不同风格的客房，房间设施设备十分齐全。内部环境整洁、舒适，为您提供温馨的住宿环境。24小时热水，房间舒适通透、温馨时尚，更体现了人性化服务。我们秉承“舒适空间，温馨感受；服务第一，宾客至上”的服务宗旨，竭诚为您效劳。</IntroEditor>  
+    <IsApartment>1</IsApartment>  
+    <IsEconomic>1</IsEconomic>  
+    <RoomTotalAmount>21</RoomTotalAmount>  
+    <ServiceRank BookingSuccessRate="4%" BookingSuccessScore="100%" ComplaintRate="0%" ComplaintScore="0%" InstantConfirmRate="-79%" InstantConfirmScore="0%" SummaryRate="-90%" SummaryScore="0"/>  
+    <Suppliers> 
+      <Supplier HotelCode="91341867" ID="151330" Status="true" WeekendEnd="7" WeekendStart="5"/>  
+      <Supplier HotelCode="91596361" ID="187569" InvokeType="SEARCH" Status="true" WeekendEnd="7" WeekendStart="5"/> 
+    </Suppliers>  
+    <Themes>99,276</Themes>  
+    <Traffic>宽平大桥抚松路湖西桥南湖大路(长春南站)解放桥</Traffic> 
+  </Detail>  
+  <Images> 
+    <Image AuthorType="Hotel" Type="5" IsCoverImage="true"> 
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/496a15957495a6cc459e3f990c3f2542.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054w9t.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054w9t.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054w9t.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0002"> 
+      <IsRoomCoverImage>true</IsRoomCoverImage>  
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/cf336bfd17ad2540616bb97f94957737.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054uVN.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054uVN.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054uVN.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0002"> 
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/b9b4d83d1f2ad2135061c9969c2d945f.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054uVS.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054uVS.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054uVS.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0001"> 
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/cf336bfd17ad2540616bb97f94957737.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054uVN.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054uVN.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054uVN.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0001,0002"> 
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/6490f353f25ae7fc18c08e2992b97ae7.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054uVC.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054uVC.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054uVC.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0002"> 
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/7b5422086208ef861a7e831ef5d76f6d.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054w9W.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054w9W.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054w9W.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0002"> 
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/8b73e2b92b930db473ad6c213e7944ef.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054w9R.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054w9R.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054w9R.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0001"> 
+      <Locations> 
+        <Location WaterMark="0" Size="1">http://pavo.elongstatic.com/i/API350_350/5d585c1063d1028a51550c984731a350.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054uVe.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054uVe.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054uVe.jpg</Location> 
+      </Locations> 
+    </Image>  
+    <Image AuthorType="Hotel" Type="8" RoomId="0001"> 
+      <Locations> 
+        <Location WaterMark="1" Size="1">http://pavo.elongstatic.com/i/Hotel350_350/nw_00054uV7.jpg</Location>  
+        <Location WaterMark="0" Size="2">http://pavo.elongstatic.com/i/Hotel70_70/nw_00054uV7.jpg</Location>  
+        <Location WaterMark="0" Size="3">http://pavo.elongstatic.com/i/Hotel120_120/nw_00054uV7.jpg</Location>  
+        <Location WaterMark="1" Size="7">http://pavo.elongstatic.com/i/Mobile640_960/nw_00054uV7.jpg</Location> 
+      </Locations> 
+    </Image> 
+  </Images>  
+  <Review Poor="0" Good="0" Score="0%" Count="0"/>  
+  <Rooms> 
+    <Room Amount="1" Area="8" Description="无窗、大床1.5米、1-2楼、8平米、免费宽带、可入住2人" BedType="大床1.5米" BroadnetFee="0" Capacity="2" Facilities="42,63,67,84,86,90" Floor="1-2" BroadnetAccess="1" Comments="" Name="电脑间(无窗)" Id="0001"/>  
+    <Room Amount="1" Area="10" Description="无窗、大床1.5米、1-2楼、10平米、免费宽带、可入住2人" BedType="大床1.5米" BroadnetFee="0" Capacity="2" Facilities="42,63,65,67,84,86,90" Floor="1-2" BroadnetAccess="1" Comments="" Name="标准间(无窗)" Id="0002"/> 
+  </Rooms>
+</Hotel>
